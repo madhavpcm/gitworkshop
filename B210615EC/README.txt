@@ -7,4 +7,5 @@ Steps followed to get here:
   git clone origin)
 3)Created B210615EC folder
 4)Created this readme file
-5)Updated changes made locally to the remote repo(git push origin)
+5)Added all changes and commit(git add . followed git commit -m "Message here")
+6)Updated changes made locally to the remote repo(git push origin)
